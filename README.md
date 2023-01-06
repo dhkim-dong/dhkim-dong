@@ -1,4 +1,6 @@
-### Hi there 👋
+### Introduce
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce&fontSize=90" />
 
 <!--
 **dhkim-dong/dhkim-dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
