@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce&fontSize=90" />
 
-# 자기소개
 ## 저는 이런 사람입니다.
-#### <br/> 게임 산업 분야에 새로운 미래와 함께 할 진정한 꿈을 가진 게임 프로그래머 김동훈 입니다. <br/>
+#### 게임 산업 분야에 새로운 미래와 함께 할 진정한 꿈을 가진 게임 프로그래머 김동훈 입니다. <br/>
 #### 다양한 게임을 많이 플레이 해보았으며, 그 경험을 바탕으로 게임을 분석할 수 있는 능력이 있습니다. <br/>
 * 게임 플레이 이력 : [바로가기](https://glamorous-timpani-e2c.notion.site/78fdd39f9bfa4bb09890c9c0719dd1bd)
 #### 게임 개발을 위해 공부하는 것에 주저함이 없습니다. <br/>
@@ -13,7 +12,7 @@
 #### 홈페이지 (노션) 링크 : [바로가기](https://glamorous-timpani-e2c.notion.site/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2)
 
 ## Git-구성
-* 각각의 git repository는 포트폴리오로 구성되어 있습니다. <br/>
+* 각각의 git repository는 하나의 포트폴리오로 구성되어 있습니다. <br/>
 * 게임 포트폴리오의 경우 용량의 제한으로 Asset 폴더로만 구성되어 있습니다. <br/>
 * 게임 다운로드 및 플레이 영상은 노션 홈페이지에 연동되어 볼 수 있습니다.
 
