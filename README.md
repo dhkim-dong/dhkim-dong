@@ -22,8 +22,6 @@
 <br/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> 
 <br/><img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white">  <img src="https://img.shields.io/badge/Microsoft Visio-3955A3?style=for-the-badge&logo=Microsoft Visio&logoColor=white"> 
 
-색인|버전|날짜|월|일|작업 내용
----|---|---|---|---|---|
 
 
 
